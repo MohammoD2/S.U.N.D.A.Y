@@ -1,0 +1,13 @@
+pyautogui
+pywhatkit
+transformers
+torch
+speedtest
+eel
+requests
+SpeechRecognition
+pygame
+PyQt5
+pyttsx3
+google-generativeai
+pyinstaller
